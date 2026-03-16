@@ -32,6 +32,9 @@ Users can **add, view, and delete products**, while the application ensures that
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451c6d34-751d-438a-91b4-089cde84de0d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9eff006f-135b-414e-a494-e8ad6d8c85f2" />
+
 ## 📂 Project Structure
 
 ```
@@ -57,8 +60,7 @@ src
 └── index.css
 ```
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451c6d34-751d-438a-91b4-089cde84de0d" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9eff006f-135b-414e-a494-e8ad6d8c85f2" />
+
 
 
 ---
